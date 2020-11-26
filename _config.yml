@@ -10,7 +10,7 @@
 
 title: FreddiPhish                          # the main title
 
-tagline:Cybersecurity Blog  # it will display as the sub-title
+tagline: Cybersecurity Blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Welcome to my blog of CTF walkthroughs and anything else I post regarding cyber security.
