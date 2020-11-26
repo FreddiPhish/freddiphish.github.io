@@ -10,5 +10,6 @@ order: 4
 # MIT License
 ---
 
+Hey everyone!
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Welcome to my blog where I'll mostly be posting my walkthroughs of CTF's from places such as HackTheBack, TryHackMe, VulnHub as well as any projects I'm working on.
